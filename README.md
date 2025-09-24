@@ -1,23 +1,11 @@
-# Brainwave_Matrix_Intern
-Task 2 of the Brainwave_Mtrix_Solutions internship with repective domain of "Web Development" assingned to me.
-
-# BRAINWAVE MATRIX SOLUTIONS
-
-## Web Development Intern:
-
-### Task 2: Create an e-commerce using CSS, HTML, and JavaScript. You can add any feautures you can think of. 
-
-
-
-
-# Brainwave_Matrix_Intern_E-Commerce_Website
+# E-Commerce-Product-Showcase
 The E-commerce Website is a modern, responsive shopping platform built with HTML, CSS, and JavaScript. It provides an interactive and seamless shopping experience with a user-friendly interface.
 
 
 
 ---
 
-# 🛍️ E-commerce Website  
+# 🛍️ E-Commerce-Product-Showcase  
 
 ## 📌 Project Overview  
 The **E-commerce Website** is a modern, responsive shopping platform built with **HTML, CSS, and JavaScript**. It offers a seamless shopping experience with an interactive UI.  
@@ -86,4 +74,5 @@ Ecommerce-Website/
 For any queries, contact **Kiran Kumar** at mailto:kk2004kiran@gmail.com.  
 
 ---
+
 
